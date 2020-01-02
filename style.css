@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+main{
+    text-align: center;
+}
+#form>label,#button{
+    font-size: 110%;
+}
+#search{
+    padding: 5px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    padding: 10px;
+}
+li>p,a{
+    font-size: 110%;
+}
